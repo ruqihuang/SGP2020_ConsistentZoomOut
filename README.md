@@ -1,4 +1,4 @@
-# ConsistentZoomOut_SGP2020
+# ConsistentZoomOut
 This is a demo of the method described in paper 'Consistent ZoomOut: Efficient Spectral Map Synchronization' (SGP 2020). 
 In particular, we consider the *Fourleg* class (20 shapes) from SHREC07 dataset. The initial maps are computed via [BIM method](http://www.vovakim.com/projects/CorrsBlended/), then we apply our Consistent ZoomOut for map synchronization.
 
@@ -18,12 +18,12 @@ Please let us know (rqhuang88 At gmail Dot com) if you have any question about t
 
 If you use this code, please cite our paper:)
 ```
-@article{CZO_SGP20,
+@inproceedings{CZO_SGP20,
     title={Consistent ZoomOut: Efficient Spectral Map Synchronization}, 
-    author={Ruqi Huang, Jing Ren, Peter Wonka, Maks Ovsjanikov},
-    journal={Proceeding of SGP},
+    author={Ruqi Huang and Jing Ren and Peter Wonka and Maks Ovsjanikov},
+    booktitle={Proc. SGP},
     volume={39},
-    issue={5},
+    name={5},
     year={2020},
 }
 ```
