@@ -18,7 +18,7 @@ Please let us know (rqhuang88 At gmail Dot com) if you have any question about t
 
 If you find this demo useful, please cite our paper:)\
 @article{CZO_SGP20,\
-*Tabspace*title={Consistent ZoomOut: Efficient Spectral Map Synchronization}, \
+*Tabspace* title={Consistent ZoomOut: Efficient Spectral Map Synchronization}, \
 *Tabspace*author={Ruqi Huang, Jing Ren, Peter Wonka, Maks Ovsjanikov},\
 *Tabspace*journal={Proceeding of SGP},\
 *Tabspace*volume={39},\
