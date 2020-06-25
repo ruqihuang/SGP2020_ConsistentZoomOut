@@ -18,12 +18,12 @@ Please let us know (rqhuang88 At gmail Dot com) if you have any question about t
 
 If you find this demo useful, please cite our paper:)\
 @article{CZO_SGP20,\
-* title={Consistent ZoomOut: Efficient Spectral Map Synchronization}, \
-*Tabspace*author={Ruqi Huang, Jing Ren, Peter Wonka, Maks Ovsjanikov},\
-*Tabspace*journal={Proceeding of SGP},\
-*Tabspace*volume={39},\
-*Tabspace*issue={5},\
-*Tabspace*year={2020},\
+    title={Consistent ZoomOut: Efficient Spectral Map Synchronization}, \
+    author={Ruqi Huang, Jing Ren, Peter Wonka, Maks Ovsjanikov},\
+    journal={Proceeding of SGP},\
+    volume={39},\
+    issue={5},\
+    year={2020},\
 }
 
 
