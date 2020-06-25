@@ -16,8 +16,8 @@ Please let us know (rqhuang88 At gmail Dot com) if you have any question about t
 
 **Citation**
 
-If you find this demo useful, please cite our paper:)\
-'''
+If you use this code, please cite our paper:)\
+```
 @article{CZO_SGP20,\
     title={Consistent ZoomOut: Efficient Spectral Map Synchronization}, \
     author={Ruqi Huang, Jing Ren, Peter Wonka, Maks Ovsjanikov},\
@@ -26,6 +26,6 @@ If you find this demo useful, please cite our paper:)\
     issue={5},\
     year={2020},\
 }
-'''
+```
 
 
